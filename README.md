@@ -21,4 +21,4 @@ buttons
   
   Full description of the project is on hackaday : https://hackaday.io/project/188679-a-poor-mans-fpv-journey
   
-  This repo contains the source code for the ESP32 board.
+  This repo contains the source code for the ESP32 board: https://github.com/f2knpw/ESP32_DJI_VirtualFlight_RC_radio_interface/blob/master/ESP32_PPM2JoystickAvata.ino
